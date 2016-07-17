@@ -1,25 +1,6 @@
-# ReduxSimpleStarter
+# ReactJS Youtube Search
+Basic ReactJS app to search Youtube, display the results (list of 5) and an embedded video player. Selecting a video from the list loads that video into the embedded player. Includes search throttling using Lodash.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Use ```npm start``` to run.
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+ReactJS, Javascript, HTML, CSS, Webpack, Babel, NodeJS, Lodash.
